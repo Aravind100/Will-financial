@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <a href="solutions.html">Financial Solutions</a><a href="channel-partner.html">Channel Partner</a><a href="knowledge-centre.html">Knowledge Centre</a><a href="about.html">About</a>
           </div></div>
           <div><h3>Contact</h3><div class="footer-links">
-            <a href="tel:+9173334069">+91 733 340 69</a><a href="mailto:aravindchaudhary90@gmail.com">aravindchaudhary90@gmail.com</a><a href="contact.html">Request a Call Back</a>
+            <a href="tel:+919173334069">+91 91733 34069</a><a href="mailto:aravindchaudhary90@gmail.com">aravindchaudhary90@gmail.com</a><a href="contact.html">Request a Call Back</a>
           </div></div>
         </div>
         <div class="footer-bottom">
